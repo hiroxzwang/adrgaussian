@@ -15,14 +15,8 @@ Official implementation of the paper "AdR-Gaussian: Accelerating Gaussian Splatt
 <a href="https://dmcv.sjtu.edu.cn/"><img height="50" src="assets/logo-dmcv.png"> </a>
 
 ## 📺 Fast Forward
-<details open class="de">
-<summary>
-<span style="font-weight: bold;">fast-forward.mp4</span>
-</summary>
-<video controls width="100%">
-  <source src="assets/fast-forward.mp4" type="video/mp4">
-</video>
-</details>
+
+https://github.com/user-attachments/assets/ef607ae5-fc88-4472-b46e-917cf50f806c
 
 3D Gaussian Splatting enables real-time rendering of complex scenes but still remains unnecessary overhead. We propose AdR-Gaussian, which employs lossless early culling to narrow the tile range of each Gaussian, and proposes a load balancing method to minimize thread waiting time, achieving significant acceleration in rendering speed.
 
